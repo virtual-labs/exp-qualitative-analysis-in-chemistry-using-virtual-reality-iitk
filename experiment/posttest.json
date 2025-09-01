@@ -2,37 +2,51 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "In the VR qualitative analysis, the flame test for copper ion shows:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Apple green color"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "A white precipitate formed with silver nitrate that dissolves in ammonia indicates:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Chloride ion"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "During qualitative analysis, evolution of a colorless gas with a smell of rotten eggs indicates presence of:",
+      "answers": {
+        "a": "S²⁻"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "In VR chemistry labs, why are confirmatory tests easy to repeat?",
+      "answers": {
+        "a": "Because chemicals are unlimited in VR"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "Barium chloride solution is used to detect which ion?",
+      "answers": {
+        "a": "SO₄²⁻"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "In VR qualitative analysis, recording observations is important because:",
+      "answers": {
+        "a": "Students can compare with standard reactions"
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
