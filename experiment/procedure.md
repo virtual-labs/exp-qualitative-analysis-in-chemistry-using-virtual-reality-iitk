@@ -1,10 +1,10 @@
-<b>Launching the Virtual Lab:</b><br><br>
+<b>Launching the Virtual Lab:</b><br>
 1. Download and install the VR Chemistry Lab application.<br>
 2. Connect and configure your VR headset and controllers.<br>
 3. Launch the “Qualitative Analysis” experiment.<br>
 4. Adjust headset settings for clear visuals.<br><br>
 
-<b>Working of the Experiment:</b><br><br>
+<b>Working of the Experiment:</b><br>
 1. Select the “Unknown Salt Sample” provided in the VR environment.<br>
 2. Perform preliminary tests:<br>
    - Observe color and state of salt.<br>
