@@ -2,37 +2,59 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Qualitative analysis in chemistry is mainly used to:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Identify ions present in a compound"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which flame color is observed for sodium ions?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Golden yellow"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "Group reagent for chloride ion detection is:",
+      "answers": {
+        "a": "Silver nitrate"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "Which gas turns limewater milky?",
+      "answers": {
+        "a": "Carbon dioxide"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "Which of the following is an advantage of VR chemistry labs?",
+      "answers": {
+        "a": "They are safe and eco-friendly"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "The preliminary test for cations often includes:",
+      "answers": {
+        "a": "Flame test"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+     {
+      "question": " white precipitate soluble in excess NaOH indicates:",
+      "answers": {
+        "a": "Zn²⁺"
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
