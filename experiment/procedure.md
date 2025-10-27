@@ -1,4 +1,4 @@
-<b>Note: </b> This is a VR-based experiment, in the simulation; you can learn from scratch how to download the APK and use VR, while the Procedure section explains the actual lab experiment steps as performed in the Virtual Reality (VR) Lab. <br><br>
+<b>Note: </b> This is a VR-based experiment; in the simulation; you can learn from scratch how to download the APK and use VR, while the Procedure section explains the actual lab experiment steps as performed in the Virtual Reality (VR) Lab. <br><br>
 
 | **Step** | **Actual Lab Procedure (Physical Flame Test)** | **Virtual Reality (VR) Lab Procedure (Simulation)** |
 |-----------|-----------------------------------------------|------------------------------------------------------|
