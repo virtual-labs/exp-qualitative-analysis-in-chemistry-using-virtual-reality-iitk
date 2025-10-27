@@ -1,17 +1,10 @@
-<b>Launching the Virtual Lab:</b><br>
-1. Download and install the VR Chemistry Lab application.<br>
-2. Connect and configure your VR headset and controllers.<br>
-3. Launch the “Qualitative Analysis” experiment.<br>
-4. Adjust headset settings for clear visuals.<br><br>
+<b>Note: </b> This is a VR-based experiment; in the simulation; you can learn from scratch how to download the APK and use VR, while the Procedure section explains the actual lab experiment steps as performed in the Virtual Reality (VR) Lab. <br><br>
 
-<b>Working of the Experiment:</b><br>
-1. Select the “Unknown Salt Sample” provided in the VR environment.<br>
-2. Perform preliminary tests:<br>
-   - Observe color and state of salt.<br>
-   - Carry out flame test for cations.<br>
-   - Check solubility in water or dilute acids.<br>
-3. Perform systematic group analysis:<br>
-   - Use group reagents (e.g., HCl, H₂SO₄, NaOH, NH₄OH, BaCl₂, AgNO₃)<br>
-   - Observe reactions like precipitate formation, dissolution, or color change.<br>
-4. Record observations and match with standard reaction tables given in VR.<br>
-5. Identify the unknown cation and anion present in the sample.
+| **Step** | **Actual Lab Procedure (Physical Flame Test)** | **Virtual Reality (VR) Lab Procedure (Simulation)** |
+|-----------|-----------------------------------------------|------------------------------------------------------|
+| **1. Preparation & Safety** | Wear safety goggles and a lab coat. Ensure the work area is clean. Obtain the wire loop and the beaker of concentrated HCl. | The user enters the virtual lab. The system enforces a virtual safety check (e.g., requiring the user to wear virtual goggles with a click). |
+| **2. Cleaning the Loop** | Dip the wire loop into the concentrated HCl to clean it, then place it in the hottest part of the Bunsen flame until no color is visible (clean). | The user uses the VR Controller to grab the virtual wire loop and place it into the virtual cleaning solution. The system provides visual confirmation (e.g., a sparkle effect) that the loop is clean. |
+| **3. Sample Acquisition** | Dip the now-clean wire loop into the unknown metal salt sample to pick up a small amount of the substance. | The user grabs a virtual cube (representing the metal salt, as seen in the video) or a virtual reagent container. The system ensures the correct amount adheres to the virtual loop. |
+| **4. Heating and Observation** | Place the loop (with the salt) into the Bunsen burner flame and observe the color emitted. This color often flashes briefly. | The user places the virtual loop/cube into the virtual flame. The flame instantly changes color (e.g., bright orange/red, as suggested by the changing flame color in the video, 0:34). |
+| **5. Repeat & Identification** | Repeat the cleaning and testing process multiple times to ensure the result is consistent. Compare the observed color to a chart of known metal ion colors. | The VR system allows instant repetition (Step 2–4). It can then overlay a color reference chart or highlight the corresponding known metal ion (e.g., Sodium = Yellow/Orange). |
+| **6. Advanced Visualization** | (Cannot be performed. The phenomenon is invisible to the naked eye.) | The system can trigger an augmented view showing the virtual electrons jumping to a higher energy shell upon heating and falling back down, releasing a photon of the specific observed color. |
