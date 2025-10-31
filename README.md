@@ -9,7 +9,7 @@
 <b>Name of Developer | <b> Prof. Aparna Dixit 
 :--|:--|
 <b> Institute | <b> PSIT 
-<b> Email id|     <b>  
+<b> Email id|     <b>  aparna.dixit@psit.ac.in
 <b> Department |  <b> Physics department
 
 ### Contributors List
