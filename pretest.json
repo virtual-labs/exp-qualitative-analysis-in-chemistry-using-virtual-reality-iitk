@@ -1,0 +1,124 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Qualitative analysis in chemistry is mainly used to:",
+      "answers": {
+        "a": "Identify ions present in a compound",
+        "b": "Measure the exact concentration of solutions",
+        "c": "Determine the melting point of a substance",
+        "d": "Calculate molecular weight"
+      },
+      "explanations": {
+        "a": "Qualitative analysis focuses on detecting which ions are present, not measuring quantities. ",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Which flame color is observed for sodium ions?",
+      "answers": {
+        "a": "Golden yellow",
+        "b": "Crimson red ",
+        "c": "Green",
+        "d": "Violet"
+      },
+      "explanations": {
+        "a": "Sodium ions emit a bright golden yellow flame in flame tests. ",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "3. Group reagent for chloride ion detection is:",
+      "answers": {
+        "a": "Barium chloride ",
+        "b": "Sodium hydroxide ",
+        "c": "Silver nitrate",
+        "d": "Hydrochloric acid "
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "AgNO₃ reacts with Cl⁻ to form a white precipitate of silver chloride",
+        "d": "Explanation"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "4. Which gas turns limewater milky?",
+      "answers": {
+        "a": "Oxygen",
+        "b": "Hydrogen",
+        "c": "Nitrogen",
+        "d": "Carbon dioxide"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "CO₂ reacts with Ca(OH)₂ to form CaCO₃, which makes limewater turn milky."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "5. Which of the following is an advantage of VR chemistry labs?",
+      "answers": {
+        "a": "They replace the need for chemical knowledge",
+        "b": "They eliminate the need for exams",
+        "c": "They are safe and eco-friendly",
+        "d": "They consume real chemicals unnecessarily "
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "VR labs allow experiments without chemical hazards or waste.",
+        "d": "Explanation"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "6. The preliminary test for cations often includes:",
+      "answers": {
+        "a": "Boiling point determination ",
+        "b": "Precipitation of anions ",
+        "c": "Solubility in organic solvents ",
+        "d": "Flame test"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Flame tests identify certain metal cations by the color of the flame."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "7. White precipitate soluble in excess NaOH indicates:",
+      "answers": {
+        "a": "Zn²⁺",
+        "b": "Fe³⁺",
+        "c": " Cu²⁺",
+        "d": " Al³⁺"
+      },
+      "explanations": {
+        "a": "Zinc hydroxide precipitate dissolves in excess NaOH, forming a soluble complex. ",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}

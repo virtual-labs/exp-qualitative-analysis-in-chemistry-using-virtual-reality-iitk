@@ -1,0 +1,107 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. In the VR qualitative analysis, the flame test for copper ion shows:",
+      "answers": {
+        "a": "Crimson red",
+        "b": "Golden yellow ",
+        "c": "Violet",
+        "d": "Apple green color"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Copper ions produce a green flame in a flame test."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. A white precipitate formed with silver nitrate that dissolves in ammonia indicates:",
+      "answers": {
+        "a": "Chloride ion",
+        "b": "Bromide ion",
+        "c": "Iodide ion ",
+        "d": "Sulfate ion "
+      },
+      "explanations": {
+        "a": "AgCl forms a white precipitate that dissolves in NH₃, confirming Cl⁻.",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "3. During qualitative analysis, evolution of a colorless gas with a smell of rotten eggs indicates presence of:",
+      "answers": {
+        "a": "S²⁻",
+        "b": "CO₃²⁻",
+        "c": "NO₃⁻",
+        "d": "Cl⁻"
+      },
+      "explanations": {
+        "a": "Hydrogen sulfide (H₂S) is a colorless gas with a rotten egg smell, indicating S²⁻. ",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "4. In VR chemistry labs, why are confirmatory tests easy to repeat?",
+      "answers": {
+        "a": "Because reactions are faster in VR",
+        "b": "Because flames are brighter ",
+        "c": "Because chemicals are unlimited in VR",
+        "d": "Because physical lab safety is unnecessary "
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "VR allows repeated tests safely without running out of reagents.",
+        "d": "Explanation"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "5. Barium chloride solution is used to detect which ion?",
+      "answers": {
+        "a": "NO₃⁻ ",
+        "b": "Cl⁻ ",
+        "c": "CO₃²⁻ ",
+        "d": "SO₄²⁻"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "BaCl₂ reacts with sulfate ions to form a white precipitate of BaSO₄."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "6. In VR qualitative analysis, recording observations is important because:",
+      "answers": {
+        "a": "Students can skip experiments",
+        "b": "Students can compare with standard reactions",
+        "c": "Observations are automatically graded ",
+        "d": "It reduces chemical hazards "
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Recording results helps students analyze and validate outcomes against known reactions.",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
